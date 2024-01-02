@@ -4,7 +4,7 @@ If my projects or collaborations interest you, do not hesitate to contact me. Th
 
 You can access my projects from the link below 
 
-https://github.com/dogukhanb/
+https://www.linkedin.com/in/dogukhanb/
 
 The e-mail address you can reach me at is 
 
