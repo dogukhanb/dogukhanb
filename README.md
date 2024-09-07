@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Doğukhan Bağcı</h1>
-<h3 align="center">❔ I am a passionate Front-End Developer, Back-End Developer and Mobile Developer from Turkey, skilled in developing interactive user interfaces.</h3>
-<h3 align="center">🔒I am passionate about creating great looking, user-friendly and functional web applications. I believe in writing clean and structured code to ensure maximum compatibility and performance.</h3>
+<h3 align="center>❔ I am a passionate Front-End Developer, Back-End Developer and Mobile Developer from Turkey, skilled in developing interactive user interfaces.</h3>
+  
+<h3>🔒I am passionate about creating great looking, user-friendly and functional web applications. I believe in writing clean and structured code to ensure maximum compatibility and performance.</h3>
 
-<h3 align="center">⚡I am highly motivated, organized and able to work well both independently and as part of a team.</h3>
+<h3">⚡I am highly motivated, organized and able to work well both independently and as part of a team.</h3>
 
-<h3 align="center">⏳ I am committed to staying up to date with the latest technologies and trends in web development to ensure the best results.</h3>
+<h3>⏳ I am committed to staying up to date with the latest technologies and trends in web development to ensure the best results.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dogukhanb/](https://www.linkedin.com/in/dogukhanb/)
 
